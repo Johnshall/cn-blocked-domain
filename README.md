@@ -6,8 +6,8 @@
 
 如果不希望自行爬取列表，可直接下载使用下面列表：
 
-- **domains.txt**：[https://github.com/Loyalsoldier/cn-blocked-domain/raw/release/domains.txt](https://github.com/Loyalsoldier/cn-blocked-domain/raw/release/domains.txt)
-- **ip.txt**：[https://github.com/Loyalsoldier/cn-blocked-domain/raw/release/ip.txt](https://github.com/Loyalsoldier/cn-blocked-domain/raw/release/ip.txt)
+- **domains.txt**：[https://github.com/Johnshall/cn-blocked-domain/raw/release/domains.txt](https://github.com/Johnshall//cn-blocked-domain/raw/release/domains.txt)
+- **ip.txt**：[https://github.com/Johnshall/cn-blocked-domain/raw/release/ip.txt](https://github.com/Johnshall/cn-blocked-domain/raw/release/ip.txt)
 
 ## 项目使用方式
 
